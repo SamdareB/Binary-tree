@@ -1,4 +1,4 @@
-//Binary tree
+#Binary tree
 //Binary tree is the tree data structure in which each node can have at most two children i.e. left child and right child.
 //Binary tree is the hierarchical in structure which is top most node called as root node and bottom nodea are called as leaves of binary tree
 //Structure of binary tree is shown below.
